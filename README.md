@@ -17,7 +17,7 @@ These projects have been developed mainly in Bratislava, or by people from there
 * [FreeMap](https://github.com/FreemapSlovakia): Local layers over OpenStreetMap, you can try at [freemap.sk](freemap.sk)
 * [MidPoint](http://midpoint.evolveum.com): Comprehensive Identity Management system developed by [Evolveum](https://evolveum.com) and the midPoint community.
 * [slapdconf](https://github.com/Evolveum/slapdconf): Command-line tools for easier configuration of OpenLDAP. Maintaned by Radovan Semancik.
-* [skCube-data-collector](https://github.com/yangwao/skCube-data-collector)
+* [skCube-data-collector](https://github.com/yangwao/skCube-data-collector): Collector of radio GSR packets from earth based  receivers. Project made for [SOSA](http://sosa.sk/)
 
 ## GitHub Organizations
 
