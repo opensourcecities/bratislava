@@ -29,6 +29,7 @@ _Add some here_
 * [Matej Nemček](https://github.com/yangwao/)
 * [Jan Gondol](https://github.com/jangondol)
 * [Ivana Zemanovicova](https://github.com/ivkaa)
+* [Radovan Semančík](https://github.com/semancik)
 
 ## Incubators, Schools, and Communities
 
