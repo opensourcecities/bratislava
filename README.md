@@ -31,6 +31,7 @@ _Add some here_
 
 ## Incubators, Schools, and Communities
 
+* [Nodeschool Bratislava](https://nodeschool.io/bratislava): Local supporting coding group for begginers and advanced programmers in Node.js & Javascript
 * [Progressbar hackerspace](https://www.progressbar.sk/): Bratislava hackerspace which supports OSS projects & persons by default.
 
 ## Other lists
