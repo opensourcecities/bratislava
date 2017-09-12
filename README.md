@@ -14,8 +14,10 @@ We want to build a list where we can see and learn about each other's code, just
 
 These projects have been developed mainly in Bratislava, or by people from there.
 
+* [FreeMap](https://github.com/FreemapSlovakia): Local layers over OpenStreetMap, you can try at [freemap.sk](freemap.sk)
 * [MidPoint](http://midpoint.evolveum.com): Comprehensive Identity Management system developed by [Evolveum](https://evolveum.com) and the midPoint community.
 * [slapdconf](https://github.com/Evolveum/slapdconf): Command-line tools for easier configuration of OpenLDAP. Maintaned by Radovan Semancik.
+* [skCube-data-collector](https://github.com/yangwao/skCube-data-collector)
 
 ## GitHub Organizations
 
@@ -23,11 +25,13 @@ _Add some here_
 
 ## Users with Open Source projects
 
-_Add some here_
+* [Matej Nemček](https://github.com/yangwao/)
+* [Jan Gondol](https://github.com/jangondol)
+* [Ivana Zemanovicova](https://github.com/ivkaa)
 
 ## Incubators, Schools, and Communities
 
-_Add some here_
+* [Progressbar hackerspace](https://www.progressbar.sk/): Bratislava hackerspace which supports OSS projects & persons by default.
 
 ## Other lists
 
