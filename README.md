@@ -22,7 +22,7 @@ These projects have been developed mainly in Bratislava, or by people from there
 
 ## GitHub Organizations
 
-_Add some here_
+* [SPy o.z.](https://github.com/pyconsk/): [Civic association](https://spy.python.sk/) responsible for [Python meetups](https://www.meetup.com/pyconsk/) and [PyCon SK](https://pycon.sk/) conference.
 
 ## Users with Open Source projects
 
@@ -30,15 +30,18 @@ _Add some here_
 * [Jan Gondol](https://github.com/jangondol)
 * [Ivana Zemanovicova](https://github.com/ivkaa)
 * [Radovan Semančík](https://github.com/semancik)
+* [Richard Kellner](https://github.com/ricco386)
 
 ## Incubators, Schools, and Communities
 
 * [Nodeschool Bratislava](https://nodeschool.io/bratislava): Local supporting coding group for begginers and advanced programmers in Node.js & Javascript
 * [Progressbar hackerspace](https://www.progressbar.sk/): Bratislava hackerspace which supports OSS projects & persons by default.
+* [Bratislava Python meetups](https://www.meetup.com/pyconsk/): Regular monthly meetups for people who have interest in Python programming language.
 
 ## Other lists
 
-_Add some here_
+* [PyCon SK](https://pycon.sk/): Conference for Python programming language and related topics organized once a year.
+* [OSS Vikend](http://ossvikend.sk/): Conference with an aim for any Open Source Technology organized once a year.
 
 ## Maintainers
 
