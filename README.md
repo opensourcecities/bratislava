@@ -22,7 +22,7 @@ These projects have been developed mainly in Bratislava, or by people from there
 
 ## GitHub Organizations
 
-_Add some here_
+* [Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network--pan-net--442220) (no GitHub account yet): an international cloud-based company heavily relying on Open Source software, e.g. OpenStack, Linux, Ansible, HAproxy, Nginx, Python.
 
 ## Users with Open Source projects
 
