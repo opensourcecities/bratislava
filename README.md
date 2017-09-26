@@ -18,6 +18,7 @@ These projects have been developed mainly in Bratislava, or by people from there
 * [FreeMap](https://github.com/FreemapSlovakia): Local layers over OpenStreetMap, you can try at [freemap.sk](freemap.sk)
 * [Ludolph](https://github.com/erigones/Ludolph): Monitoring Jabber Bot with Zabbix support, completely written in Python. Bot has great support for plugins, for example: [ludolph-skeleton](https://github.com/erigones/ludolph-skeleton), [ludolph-weather](https://github.com/erigones/ludolph-weather), [ludolph-chatbot](https://github.com/erigones/ludolph-chatbot), etc...
 * [MidPoint](http://midpoint.evolveum.com): Comprehensive Identity Management system developed by [Evolveum](https://evolveum.com) and the midPoint community.
+* [Open Data Node](https://github.com/OpenDataNode/open-data-node): Open Source platform for publication, management and exhange of Open Data
 * [OpenSourceBikeShare](https://github.com/cyklokoalicia/OpenSourceBikeShare): Bike sharing system suitable for smaller communities, university campuses, companies. Developed by community around [Cyklokoalícia](https://cyklokoalicia.sk/) and [White bikes](https://www.facebook.com/White-bikes-Biele-bicykle-183156078451725/)
 * [slapdconf](https://github.com/Evolveum/slapdconf): Command-line tools for easier configuration of OpenLDAP. Maintaned by Radovan Semancik.
 * [skCube-data-collector](https://github.com/yangwao/skCube-data-collector): Collector of radio GSR packets from earth based  receivers. Project made for [SOSA](http://sosa.sk/)
@@ -25,6 +26,8 @@ These projects have been developed mainly in Bratislava, or by people from there
 
 ## GitHub Organizations
 
+* [OpenData.sk](https://github.com/OpenDataSk): informal Slovak Open Data initiative
+* [Spoločnosť pre otvorené informačné technológie (SOIT)](https://github.com/soit-sk): Non-profit civic association of people who advocate the use of open information technologies in diverse areas of our society.
 * [SPy o.z.](https://github.com/pyconsk/): [Civic association](https://spy.python.sk/) responsible for [Python meetups](https://www.meetup.com/pyconsk/) and [PyCon SK](https://pycon.sk/) conference.
 
 ## Users with Open Source projects
@@ -34,6 +37,7 @@ These projects have been developed mainly in Bratislava, or by people from there
 * [Ivana Zemanovicova](https://github.com/ivkaa)
 * [Radovan Semančík](https://github.com/semancik)
 * [Richard Kellner](https://github.com/ricco386)
+* [Peter Hanečák](https://github.com/hanecak)
 
 ## Incubators, Schools, and Communities
 
