@@ -32,13 +32,14 @@ These projects have been developed mainly in Bratislava, or by people from there
 
 ## Users with Open Source projects
 
-* [Matej Nemček](https://github.com/yangwao/)
+* [Matej Nemček](https://github.com/yangwao)
 * [Jan Gondol](https://github.com/jangondol)
 * [Ivana Zemanovicova](https://github.com/ivkaa)
 * [Radovan Semančík](https://github.com/semancik)
 * [Richard Kellner](https://github.com/ricco386)
 * [Ivor Uhliarik](https://github.com/iFrag) - [Personal GitLab projects](https://pm.uhliarik.com/users/ivor/projects)
 * [Peter Hanečák](https://github.com/hanecak)
+* [Andrej Shadura](https://github.com/andrewshadura)
 
 ## Incubators, Schools, and Communities
 
